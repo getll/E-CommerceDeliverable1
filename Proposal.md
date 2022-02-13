@@ -1,4 +1,4 @@
-# Project Proposal
+# Project Proposal: Shufflewear
 
 ## Team members
 - Alvin Alagos Eli
