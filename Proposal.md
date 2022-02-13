@@ -30,7 +30,7 @@ We will be developing a marketplace Web application where sellers can list their
 17. A seller can delete an auction
 18. A seller can update his profile
 19. A seller can review their ratings, but if under 2 out of 5 stars the seller will be temporarily banned
-20. A seller receives a report when one of the items listed underhim was bought
+20. A seller receives a report when one of the items listed under him was bought
 21. A seller can cancel a purchase
 22. A seller can view their makings in a specific time stamp
 
